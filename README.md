@@ -159,3 +159,13 @@ A collection of news articles about technology and its impact on society.
   be alerted earlier if a suspicious AirTag is tracking them. Additionally,
   users with an iPhone 11 or newer will be able to use "percision finding" to locate 
   the AirTag. They can also activate the AirTag to ring to help them find it. 
+
+* [Texas sues Meta for collecting facial recognition data](https://www.cnn.com/2022/02/14/tech/texas-meta-suit/index.html)
+  Texas is suing Meta over allegations that the social media giant illegally harvested the facial 
+  recognition data of tens of millions of state residents for a decade. The lawsuit argues that a 
+  now-shuttered Facebook photo-tagging feature failed to get Texans’ informed consent before 
+  gathering their facial recognition data. The feature worked by analyzing faces in photos, 
+  including those of non-Facebook users and recommending that Facebook users tag the people 
+  that the tool identified. Facebook announced it would discontinue the tool in November 2021 
+  and that it would also delete the data it had collected from at least 600 million users who had 
+  been a part of the program. 
