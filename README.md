@@ -169,3 +169,13 @@ A collection of news articles about technology and its impact on society.
   that the tool identified. Facebook announced it would discontinue the tool in November 2021 
   and that it would also delete the data it had collected from at least 600 million users who had 
   been a part of the program. 
+
+* [Zuckerberg reveals AI projects to power Metaverse](https://www.bbc.com/news/technology-60492199)
+  Meta founder Mark Zuckerberg has unveiled several artificial intelligence projects describing AI 
+  as “the key to unlocking the Metaverse.” In a live streamed demonstration, he created a basic 
+  brutal world with an island, trees, and a beach, using an AI feature Builder Bot. He also 
+  announced plans to build a universal speech translator. He made sure to promise the AI 
+  systems driving Meta’s virtual worlds would preserve privacy and be transparent and 
+  responsible. Facebook has been investing in AI for the past 10 years and in January, it 
+  announced that it had built a new AI supercomputer that it aims to be the fastest in the world
+  when completed mid 2022. 
